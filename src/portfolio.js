@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Marco Maldonado",
   logo_name: "AshutoshHathidara",
   nickname: "layman_brother",
   subTitle:
@@ -380,9 +380,9 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
+      title: "University of Texas at San antonio",
       subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
+      logo_path: "Texas-SA-Roadrunners-logo-500x281.png",
       alt_name: "IIITDM Kurnool",
       duration: "2016 - 2020",
       descriptions: [
