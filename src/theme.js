@@ -154,7 +154,8 @@ export const yellowTheme = {
 };
 
 export const materialDarkTheme = {
-  body: "#263238",
+  //body: "#263238",
+  body: "#000200",
   text: "#aeaeae",
   expTxtColor: "#000a12",
   highlight: "#4f5b62",
