@@ -1,6 +1,7 @@
 .skills-main-div {
   display: flex;
   overflow: hidden;
+  /*experimental*/
 }
 
 .skills-header {

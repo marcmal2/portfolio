@@ -15,6 +15,7 @@
   width: 90%;
   padding: 20px 10px;
   margin: 0px auto;
+  /*experiemntal*/
 }
 
 .greeting-main {
@@ -24,6 +25,7 @@
 .greeting-main > * {
   flex: 1;
   margin-bottom: 30px;
+  /* experiemnetal */
 }
 .button-greeting-div {
   display: flex;
@@ -35,6 +37,7 @@
   font-size: 70px;
   line-height: 1.1;
   font-family: "Google Sans Bold";
+  /*experimental*/
 }
 
 .greeting-nickname {
@@ -48,11 +51,18 @@
   line-height: 40px;
   margin-right: 40px;
   font-family: "Google Sans Medium";
+  /* experiemnetal */
 }
 
 .greeting-image-div > * {
-  max-width: 100%;
   height: auto;
+  max-width: 100%;
+  /* experimental */
+  display: flex;
+  width: 70vw;
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Media Query */
