@@ -5,19 +5,23 @@
 .basic-contact {
   margin-left: 5%;
   margin-right: 5%;
+  /*experiemntal*/
 }
 
 .contact-heading-div {
   display: flex;
+  /*experiemntal*/
 }
 
 .blog-heading-div {
   display: flex;
+  /*experiemntal*/
 }
 
 .address-heading-div {
   display: flex;
   margin-top: 80px;
+  /*experiemntal*/
 }
 
 .blog-heading-div > * {
@@ -71,7 +75,8 @@
   font-family: "Google Sans Medium";
   line-height: 1.1;
   text-align: center;
-  margin-top: 60px;
+  /*margin-top: 60px;*/
+  /* experiemntal*/
 }
 
 .blog-heading-text {

@@ -3,6 +3,7 @@ import { Route, Switch, HashRouter } from "react-router-dom";
 import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
 import Education from "../pages/education/EducationComponent";
+import Technologies from "../pages/technologies/Technologies";
 import Experience from "../pages/experience/Experience";
 import Opensource from "../pages/opensource/Opensource";
 import Contact from "../pages/contact/ContactComponent";
@@ -32,7 +33,7 @@ export default class Main extends Component {
                 path="/experience"
                 exact
                 render={(props) => (
-                  <Experience {...props} theme={this.props.theme} />
+                  <Technologies {...props} theme={this.props.theme} />
                 )}
               />
               <Route
@@ -93,7 +94,7 @@ export default class Main extends Component {
                 path="/experience"
                 exact
                 render={(props) => (
-                  <Experience {...props} theme={this.props.theme} />
+                  <Technologies {...props} theme={this.props.theme} />
                 )}
               />
               <Route
