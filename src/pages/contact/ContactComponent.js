@@ -42,6 +42,7 @@ class Contact extends Component {
                   style={{ color: theme.secondaryText }}
                 >
                   {ContactData["description"]}
+                  heloooooooooooooooooooooooooooooooooooooooooooooooooooodddddddddddddddddddddddddddddddddddddddddd
                 </p>
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
@@ -55,7 +56,7 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
-          <Fade bottom duration={1000} distance="40px">
+          {/*<Fade bottom duration={1000} distance="40px">
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
                 <h1 className="blog-heading-text" style={{ color: theme.text }}>
